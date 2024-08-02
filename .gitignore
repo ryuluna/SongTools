@@ -1,3 +1,4 @@
 _songs/
 __pycache__
 *.log
+.DS_Store
