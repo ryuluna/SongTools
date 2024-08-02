@@ -1,0 +1,4 @@
+python-inquirer
+click
+pathlib
+pillow
